@@ -53,4 +53,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For inquiries or issues, please open an issue on GitHub or contact the repository owner at your.email@example.com.
+For inquiries or issues, please open an issue on GitHub or contact the repository owner at aamodkumar2006@gmail.com.
